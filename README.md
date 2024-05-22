@@ -6,7 +6,7 @@
 
 ---
 
-### I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### About me<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :sparkles: I'm a frontend developer.
 
 - :seedling: Сonstantly strive to develop and study new technologies.
