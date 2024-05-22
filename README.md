@@ -6,6 +6,11 @@
 
 ---
 
-### :technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I'm a frontend developer.
+
+- :seedling: Сonstantly strive to develop and study new technologies.
+
+- ::clock4: Able to work on complex tasks for a long time.
 
 
