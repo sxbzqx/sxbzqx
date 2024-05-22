@@ -7,7 +7,7 @@
 ---
 
 ### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I'm a frontend developer.
+- :sparkles: I'm a frontend developer.
 
 - :seedling: Сonstantly strive to develop and study new technologies.
 
