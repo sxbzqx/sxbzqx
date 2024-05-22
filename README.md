@@ -11,6 +11,6 @@
 
 - :seedling: Сonstantly strive to develop and study new technologies.
 
-- ::clock4: Able to work on complex tasks for a long time.
+- :clock4: Able to work on complex tasks for a long time.
 
 
