@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Azamat
+## Hi there! 👋 I'm Azamat :technologist:
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkyOGJkM3BoYzM4cjJseDA0aTVjZXBmZ3B3emJyM21vaGE4aWR4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" alt="" />
@@ -26,11 +26,11 @@
 
 ---
 
-## My stats
+## My stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkinxv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Contacts
+## Contacts 📞
 - E-mail: erkinxv111@gmail.com
 - Telegram: [@sxbzzz](https://t.me/sxbzzz)
 
