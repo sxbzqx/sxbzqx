@@ -33,7 +33,7 @@
 
 
 ## Contacts 📞
-- E-mail: erkinxv111@gmail.com
+- E-mail: [mail](erkinxv111@gmail.com)
 - Telegram: [@sxbzzz](https://t.me/sxbzzz)
 
 
