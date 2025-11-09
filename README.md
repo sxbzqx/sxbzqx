@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there! I'm Azamat👋</h2>
+  <h1>Hi there! I'm Azamat👋</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D7F700&width=435&lines=Curious+Frontend+Developer+;HTML%26CSS+%7C+JS%2FTS++%7C+React%2FNext.js" alt="Typing SVG" />
   </a>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🍀 About me
+## 🍀 About me
 - 🛠️ I'm a Frontend developer.  
 - 🌱 Constantly strive to develop and study new technologies.  
 - ⏱️ Able to work on complex tasks for a long time.  
@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 Technologies I work with
+## 💻 Technologies I work with
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📬 Contacts
+## 📬 Contacts
 
 <p align="center">
   <a href="mailto:erkinxv111@gmail.com">
