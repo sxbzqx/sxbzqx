@@ -10,9 +10,8 @@
 ## 🍀 About me
 - 🛠️ I'm a Frontend developer.  
 - 🌱 Constantly strive to develop and study new technologies.  
-- ⏱️ Able to work on complex tasks for a long time.  
-- 🎯 Goal: Become a full-stack developer.  
-
+- ⏱️ Able to work on complex tasks for a long time.
+  
 ---
 
 ## 💻 Technologies I work with
