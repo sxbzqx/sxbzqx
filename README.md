@@ -11,7 +11,8 @@
 ---
 
 ```csharp
-public class Subzqx {
+public class Subzqx
+{
     public string Role  => "Full-Stack Developer";
     public string Stack => "Next.js + ASP.NET Core";
     public string Now   => "Building scalable web apps 🚀";
@@ -44,7 +45,7 @@ public class Subzqx {
 ┌─────────────────────────────────────────────────────┐
 │  Next.js (App Router)  →  ASP.NET Core REST API     │
 │  Entity Framework      →  MySQL / PostgreSQL        │
-│  Tailwind + shadcn/ui  →  Styling Pages/components  │
+│  Tailwind + Ant Design →  Styling Pages/components  │
 │  JWT auth              →  Auth-service              │
 └─────────────────────────────────────────────────────┘
 ```
@@ -59,8 +60,7 @@ public class Subzqx {
 <summary><b>What I'm working on</b></summary>
 
 <br>
-
-- Full-stack corporate website for CHP:
+- Developing a full-stack corporate portal for a CHP plant. The stack includes .NET (EF Core) for the backend, MySQL for data management, and Next.js for a responsive, high-performance frontend:
   - .NET + Entity Framework (EF Core)
   - Next.js + Axios
   - MySQL
