@@ -84,7 +84,7 @@ public class Subzqx
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-erkinxv111@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erkinxv111@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@sxbzzz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sxbzzz)
+[![Telegram](https://img.shields.io/badge/Telegram-@sxbzzz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/sxbzzz)
 [![GitHub](https://img.shields.io/badge/GitHub-sxbzqx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sxbzqx)
 
 </div>
