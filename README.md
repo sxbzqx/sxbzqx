@@ -69,16 +69,6 @@ public class Subzqx
 
 ---
 
-## Most Used Languages
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxbzqx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8)](https://github.com/sxbzqx)
-
-</div>
-
----
-
 ## Get in Touch
 
 <div align="center">
