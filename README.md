@@ -15,7 +15,7 @@ public class Subzqx : Developer
 {
     public string Role  => "Full-Stack Developer";
     public string Stack => "Next.js + ASP.NET Core";
-    public string Now   => "Building full-stack scalable web=apps";
+    public string Now   => "Building full-stack scalable web-apps";
 }
 ```
 
