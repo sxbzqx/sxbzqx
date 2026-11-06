@@ -34,36 +34,30 @@ public class Subzqx
 
 ---
 
-## Architecture
+## What I'm working on 
 
 <details>
-<summary><b>How I structure a full-stack project</b></summary>
+<summary><b>Now</b></summary>
 
 <br>
+- Developing a full-stack corporate website for 600+ workers. The stack includes:
 
-```
-┌─────────────────────────────────────────────────────┐
-│  Next.js (App Router)  →  ASP.NET Core REST API     │
-│  Entity Framework      →  MySQL / PostgreSQL        │
-│  Tailwind + Ant Design →  Styling Pages/components  │
-│  JWT auth              →  Auth-service              │
-└─────────────────────────────────────────────────────┘
-```
+  - .NET 
+      - Entity Framework
+      - WebSocket (SignalR)
+      
+  - Next.js
+      - Axios
+      - TanStack Query
+      - UI-libs:
+        - antd  
+        - react-hot-toast
+      
+  - PostgreSQL
+    
+  - Docker
 
-**Frontend** — App Router with server components, React Query for async state, shadcn/ui + Tailwind for UI.
-
-**Backend** — Layered architecture: controllers → services → repositories. JWT auth, Swagger docs out of the box.
-
-</details>
-
-<details>
-<summary><b>What I'm working on</b></summary>
-
-<br>
-- Developing a full-stack corporate portal for a CHP plant. The stack includes .NET (EF Core) for the backend, MySQL for data management, and Next.js for a responsive, high-performance frontend:
-  - .NET + Entity Framework (EF Core)
-  - Next.js + Axios
-  - MySQL
+  - Nginx 
 
 </details>
 
